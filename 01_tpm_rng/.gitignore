@@ -1,0 +1,30 @@
+# Build directories
+build/
+bin/
+obj/
+out/
+
+# IDE files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.cache
+*.db
+*.opendb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+
+# Vcpkg
+vcpkg_installed/
+
+# Logs
+*.log

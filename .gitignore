@@ -1,0 +1,9 @@
+build/
+.vs/
+out/
+*.exe
+*.obj
+*.pdb
+*.txt
+*.new
+*.log
