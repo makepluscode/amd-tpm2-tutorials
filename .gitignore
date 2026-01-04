@@ -4,6 +4,7 @@ out/
 *.exe
 *.obj
 *.pdb
-*.txt
+output.txt
+build_log.txt
 *.new
 *.log
